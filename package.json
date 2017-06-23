@@ -1,0 +1,52 @@
+{
+  "name": "react-native-html-text",
+  "version": "0.1.0",
+  "description": "A component converts html to native conponents",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "yarn run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/razor1895/react-native-html-text.git"
+  },
+  "keywords": [
+    "react-native",
+    "html",
+    "render",
+    "text",
+    "react",
+    "style",
+    "ui"
+  ],
+  "author": "razor1895",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/razor1895/react-native-html-text/issues"
+  },
+  "homepage": "https://github.com/razor1895/react-native-html-text#readme",
+  "dependencies": {
+    "css-to-react-native": "^2.0.4",
+    "entities": "^1.1.1",
+    "htmlparser2-without-node-native": "^3.9.0",
+    "react": "16.0.0-alpha.6",
+    "react-native": "0.44.2"
+  },
+  "jest": {
+    "preset": "react-native"
+  },
+  "devDependencies": {
+    "babel-eslint": "^7.2.3",
+    "eslint": "3.19.0",
+    "eslint-config-airbnb": "^15.0.1",
+    "eslint-plugin-import": "^2.3.0",
+    "eslint-plugin-jsx-a11y": "^5.0.3",
+    "eslint-plugin-react": "^7.1.0",
+    "jest": "19.0.2",
+    "react-test-renderer": "16.0.0-alpha.6"
+  }
+}

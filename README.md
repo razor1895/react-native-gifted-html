@@ -1,2 +1,2 @@
 # react-native-html-text
-A component convert html text to native views
+"A component converts html to native conponents
