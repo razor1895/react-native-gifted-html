@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/razor1895/react-native-html-text.git"
+    "url": "git+https://github.com/razor1895/react-native-gifted-html.git"
   },
   "keywords": [
     "react-native",
@@ -26,9 +26,9 @@
   "author": "razor1895",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/razor1895/react-native-html-text/issues"
+    "url": "https://github.com/razor1895/react-native-gifted-html/issues"
   },
-  "homepage": "https://github.com/razor1895/react-native-html-text#readme",
+  "homepage": "https://github.com/razor1895/react-native-gifted-html#readme",
   "dependencies": {
     "css-to-react-native": "^2.0.4",
     "entities": "^1.1.1",
